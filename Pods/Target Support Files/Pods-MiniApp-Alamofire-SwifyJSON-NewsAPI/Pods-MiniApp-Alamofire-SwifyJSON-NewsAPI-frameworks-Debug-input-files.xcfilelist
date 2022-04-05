@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MiniApp-Alamofire-SwifyJSON-NewsAPI/Pods-MiniApp-Alamofire-SwifyJSON-NewsAPI-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
